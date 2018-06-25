@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LDAPUpdater">
+</Property><Property Name="方案檔" Value="E:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater.sln">
+</Property><Property Name="使用者選項檔" Value="E:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater.suo">
+</Property><Property Name="Date" Value="2016年4月16日">
+</Property><Property Name="Time" Value="上午 09:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LDAPUpdater.sln" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LDAPUpdater.suo" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater.suo">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\LDAPUpdater.csproj" Description="專案檔已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\LDAPUpdater.csproj">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\LDAPUpdater.csproj.user" Description="專案使用者檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\LDAPUpdater.csproj.user">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Form_Editor.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Form_Editor.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Form_Editor.Designer.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Form_Editor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Form_Main.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Form_Main.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Form_Main.Designer.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Form_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\LDAPObject.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\LDAPObject.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\OrganizationalUnit.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\OrganizationalUnit.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Program.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Program.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Properties\Resources.Designer.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Properties\Settings.Designer.cs" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Properties\Settings.settings" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Form_Editor.resx" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Form_Editor.resx">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Form_Main.resx" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Form_Main.resx">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\Properties\Resources.resx" Description="檔案已成功備份為 E:\Source\RegalAttendance\LDAPUpdater\Backup\LDAPUpdater\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\LDAPUpdater.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="LDAPUpdater" Source="LDAPUpdater\LDAPUpdater.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LDAPUpdater.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="LDAPUpdater.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LDAPUpdater" Source="LDAPUpdater\LDAPUpdater.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

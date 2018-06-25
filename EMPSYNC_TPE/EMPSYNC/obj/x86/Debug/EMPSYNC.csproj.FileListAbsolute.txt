@@ -1,0 +1,31 @@
+C:\Users\squalllee\AppData\Local\Temporary Projects\EMPSYNC\bin\Debug\EMPSYNC.exe
+C:\Users\squalllee\AppData\Local\Temporary Projects\EMPSYNC\bin\Debug\EMPSYNC.pdb
+C:\Users\squalllee\AppData\Local\Temporary Projects\EMPSYNC\obj\x86\Debug\EMPSYNC.exe
+C:\Users\squalllee\AppData\Local\Temporary Projects\EMPSYNC\obj\x86\Debug\EMPSYNC.pdb
+C:\Users\squalllee\Desktop\EMPSYNC\EMPSYNC\obj\x86\Debug\EMPSYNC.exe
+C:\Users\squalllee\Desktop\EMPSYNC\EMPSYNC\obj\x86\Debug\EMPSYNC.pdb
+C:\Users\squalllee\Desktop\EMPSYNC\EMPSYNC\bin\Debug\EMPSYNC.exe.config
+C:\Users\squalllee\Desktop\EMPSYNC\EMPSYNC\bin\Debug\EMPSYNC.exe
+C:\Users\squalllee\Desktop\EMPSYNC\EMPSYNC\bin\Debug\EMPSYNC.pdb
+C:\Users\squalllee\Desktop\EMPSYNC\EMPSYNC\bin\Debug\DBAccess.dll
+C:\Users\squalllee\Desktop\EMPSYNC\EMPSYNC\obj\x86\Debug\EMPSYNC.csprojResolveAssemblyReference.cache
+E:\Source\RegalAttendance\EMPSYNC\EMPSYNC\bin\Debug\EMPSYNC.exe.config
+E:\Source\RegalAttendance\EMPSYNC\EMPSYNC\obj\x86\Debug\EMPSYNC.exe
+E:\Source\RegalAttendance\EMPSYNC\EMPSYNC\obj\x86\Debug\EMPSYNC.pdb
+E:\Source\RegalAttendance\EMPSYNC\EMPSYNC\bin\Debug\EMPSYNC.exe
+E:\Source\RegalAttendance\EMPSYNC\EMPSYNC\bin\Debug\EMPSYNC.pdb
+E:\Source\RegalAttendance\EMPSYNC\EMPSYNC\bin\Debug\DBAccess.dll
+E:\Source\RegalAttendance\EMPSYNC\EMPSYNC\obj\x86\Debug\EMPSYNC.csprojResolveAssemblyReference.cache
+E:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\bin\Debug\EMPSYNC.exe.config
+E:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\obj\x86\Debug\EMPSYNC.exe
+E:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\obj\x86\Debug\EMPSYNC.pdb
+E:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\bin\Debug\EMPSYNC.exe
+E:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\bin\Debug\EMPSYNC.pdb
+E:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\bin\Debug\DBAccess.dll
+E:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\obj\x86\Debug\EMPSYNC.csprojResolveAssemblyReference.cache
+D:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\bin\Debug\EMPSYNC.exe.config
+D:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\obj\x86\Debug\EMPSYNC.exe
+D:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\obj\x86\Debug\EMPSYNC.pdb
+D:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\bin\Debug\EMPSYNC.exe
+D:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\bin\Debug\EMPSYNC.pdb
+D:\Source\RegalAttendance\EMPSYNC_TPE\EMPSYNC\bin\Debug\DBAccess.dll

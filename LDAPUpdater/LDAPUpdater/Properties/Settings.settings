@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LDAPUpdater.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RegalAttendance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.11;Initial Catalog=Attendance;User Id=regalsa ;Password=sA89947155;</Value>
+    </Setting>
+    <Setting Name="RegalAttendanceTest" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.42;Initial Catalog=Attendance;User Id=sa ;Password=1234;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

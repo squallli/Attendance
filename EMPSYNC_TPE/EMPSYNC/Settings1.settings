@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EMPSYNC" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="DSCTPEConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.0.27;Database=TW01;User Id=attendence;
+Password=89947155;</Value>
+    </Setting>
+    <Setting Name="RegalConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.11;Initial Catalog=Attendance;User Id=regalsa ;Password=sA89947155;</Value>
+    </Setting>
+    <Setting Name="DSCTXGConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.0.27;Database=TW04;User Id=attendence;
+Password=89947155;</Value>
+    </Setting>
+    <Setting Name="DSCTNNConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.0.27;Database=TW06;User Id=attendence;
+Password=89947155;</Value>
+    </Setting>
+    <Setting Name="DSCSUConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.0.27;Database=Regal_SU;User Id=attendence;
+Password=89947155;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

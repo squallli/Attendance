@@ -1,0 +1,11 @@
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\bin\Release\LDAPUpdater.exe.config
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\obj\Release\LDAPUpdater.exe
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\obj\Release\LDAPUpdater.pdb
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\bin\Release\LDAPOU.xml
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\bin\Release\LDAPUpdater.exe
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\bin\Release\LDAPUpdater.pdb
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\obj\Release\ResolveAssemblyReference.cache
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\obj\Release\LDAPUpdater.Form_Editor.resources
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\obj\Release\LDAPUpdater.Form_Main.resources
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\obj\Release\LDAPUpdater.Properties.Resources.resources
+D:\Source\RegalAttendance\LDAPUpdater\LDAPUpdater\obj\Release\LDAPUpdater.csproj.GenerateResource.Cache

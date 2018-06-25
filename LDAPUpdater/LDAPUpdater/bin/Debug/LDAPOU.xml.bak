@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <OrganizationalUnits>
+    <Name />
+    <LDAPObjectString>OU=Suzhou,OU=帝商科技,DC=regalscan,DC=com</LDAPObjectString>
+    <IsOff>Y</IsOff>
+  </OrganizationalUnits>
+  <OrganizationalUnits>
+    <Name />
+    <LDAPObjectString>OU=管理部,OU=帝商科技,DC=regalscan,DC=com</LDAPObjectString>
+  </OrganizationalUnits>
+  <OrganizationalUnits>
+    <Name />
+    <LDAPObjectString>OU=系統部,OU=帝商科技,DC=regalscan,DC=com</LDAPObjectString>
+  </OrganizationalUnits>
+  <OrganizationalUnits>
+    <Name />
+    <LDAPObjectString>OU=業務部,OU=帝商科技,DC=regalscan,DC=com</LDAPObjectString>
+  </OrganizationalUnits>
+  <OrganizationalUnits>
+    <Name />
+    <LDAPObjectString>OU=財務部,OU=帝商科技,DC=regalscan,DC=com</LDAPObjectString>
+  </OrganizationalUnits>
+</DocumentElement>
